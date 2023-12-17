@@ -1,10 +1,10 @@
-<h2> Hi! I'm Sharan.</h2>
+<h2> Hi!👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Curious individual who loves to solve complex problems and learn new technologies.
-- 🎓 &nbsp; Studying Computer Engineering at University of Waterloo.
-- 🌱 &nbsp; Learning more about Cloud Architecture and Artificial Intelligence.
+- 🤔 &nbsp; Curious individual who loves to solve complex problems and learn new technologies
+- 🎓 &nbsp; Studying Computer Engineering at University of Waterloo
+- 🌱 &nbsp; Learning more about Cloud Architecture and Artificial Intelligence
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
